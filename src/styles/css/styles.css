@@ -1,0 +1,14 @@
+
+body{
+  background: url("../../../assets/images/fondo.jpg")  
+  no-repeat fixed center center #ffffff;
+  background-size: cover;
+   font-size: 16px; 
+  
+}
+.inicio_sesion{
+  display: flex;
+  background-color:#E9E9E6;
+  margin-right: 800px;
+  height: 200px;
+}
